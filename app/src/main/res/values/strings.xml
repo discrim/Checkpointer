@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Checkpointer</string>
+    <string name="hw">Hello World!</string>
+    <string name="record">Record\nTime</string>
+</resources>
